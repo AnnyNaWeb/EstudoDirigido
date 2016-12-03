@@ -1,0 +1,214 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+	
+}
+@font-face
+{
+	src: url('Handlee.ttf');
+	font-family: Handlee-Regular;
+}	
+body
+{
+	font-family: Handlee-Regular, sans-serif;
+	text-align: justify;
+	font-size: 100%;
+	background-color:#E5E7E6;
+}
+header
+{
+	background-color: #F9C028;
+	position:fixed;
+	top: 0;
+	width:100%;
+	height: 65px;
+	line-height:65px;
+	
+}
+h1
+{
+	font-size:2.4em;
+	text-align:center;
+}
+p
+{
+	font-size:1.5em;
+	width:100%;
+	text-align: justify;
+	margin-top: 10%;
+	
+}
+img 
+{
+	max-width: 100%;
+	margin-top:16%;
+	
+
+}
+
+.container
+{
+	width: 80%;
+	margin: 0 auto;
+	margin-top:80px;	
+}
+
+
+#meio
+{
+	max-width:100%;
+	max-height: 100%;
+	min-height: 100%;
+	min-width:100%;
+	
+	
+}
+#inicio
+{
+	max-width:100%;
+	max-height: 100%;
+	min-height: 100%;
+	min-width:100%;
+	
+	
+}
+#fim
+{
+	max-width:100%;
+	max-height: 100%;
+	min-height: 100%;
+	min-width:100%;	
+	
+	
+}
+
+#leiamais
+{
+	float:right;
+}
+@-o-viewport
+	{
+		width: device-width;
+		height: device-height;
+		zoom: 1;
+		min-zoom: 0.5;
+		max-zoom: 4;
+		orientation: auto;
+	}
+@-ms-viewport
+	{
+		width: device-width;
+		height: device-height;
+		zoom: 1;
+		min-zoom: 0.5;
+		max-zoom: 4;
+		orientation: auto;
+	}
+@-webkit-viewport
+	{
+		width: device-width;
+		height: device-height;
+		zoom: 1;
+		min-zoom: 0.5;
+		max-zoom: 4;
+		orientation: auto;
+	}
+
+@media only screen and (orientation: landscape) { 
+    container
+	{
+		-webkit-transform: rotate(90deg);
+		/* Firefox */
+		-moz-transform: rotate(90deg);
+		/* IE */
+		-ms-transform: rotate(90deg);
+		/* Opera */
+		-o-transform: rotate(90deg);
+		/* Internet Explorer */
+		filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=4);
+
+		/* final spec */
+		transform: rotate(90deg);
+    }
+
+}
+ @media only screen and (min-width : 1024px) and (max-width : 1366px) 
+{
+
+	
+
+}
+ @media only screen and (min-width : 700px) and (max-width : 1024px) 
+{
+	p
+	{
+		font-size: 1.7em;	
+	}
+
+	h1
+	{
+		font-size: 2em;
+	}
+
+	container
+	{
+		width:100%;
+	}
+
+
+}
+@media only screen and (min-device-width :480px) and (max-device-width :700px) 
+{
+	
+	/*h1 e texto*/
+	/* estilos */
+
+	p
+	{
+		font-size: 1em;	
+	}
+
+	h1
+	{
+		font-size: 2em;
+	}
+
+	container
+	{
+		width:100%;
+	}
+
+
+
+}
+
+
+@media only screen and (min-device-width :300px) and (max-device-width :480px) 
+{
+	
+	/*h1 e texto*/
+	/* estilos */
+
+	p
+	{
+		font-size: 0.9em;	
+	}
+
+	h1
+	{
+		font-size: 2em;
+	}
+
+	img 
+	{
+		max-width: 80%;
+	}
+
+	container
+	{
+		width:100%;
+	}
+}
+

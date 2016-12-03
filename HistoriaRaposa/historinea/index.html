@@ -1,0 +1,49 @@
+﻿<html lang="PT">
+<head>
+<title> | Lorem | </title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="style.css" />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js'></script>
+
+</head>
+<script type="text/javascript">
+jQuery(document).ready(function($) { 
+    $(".scroll").click(function(event){        
+        event.preventDefault();
+        $('html,body,inicio,meio,fim, container').animate({scrollTop:$(this.hash).offset().top},2600);
+   });
+});
+</script>
+<body>
+<header>
+	<h1>A Raposa Lorem</h1>
+</header>
+
+	<div class="container">
+		
+		<div id="inicio">
+		
+<p>Lorem é uma raposa domesticada, mas nem sempre foi assim. Quando filhote, Lorem foi encontrada muito doente por um guarda de uma região florestal protegida, chamado Robson.Ele a levou para casa e cuidou dela como se fosse um mascote. Passado algum tempo Lorem estava muito feliz e saudável, mas Robson não deixava ela voltar a floresta. Lorem teimosa que só ela, um dia saiu correndo em direção a floresta. &nbsp </p><a id="leiamais" href="#meio" class="scroll"><img src="leiamais.svg" alt="leia mais" /></a>
+
+<img src="floresta2.png" /> 
+
+			
+		</div>
+		
+		<div id="meio">
+		<p>Conforme Lorem entrava na floresta, mais se sentia livre. Corria, corria, corria... Correu tanto que ao se dar conta, percebeu que estava perdida. A pobre raposa se sentiu triste e assustada. E agora? Estava aflita, pois não sabia mais viver na floresta! Pensou, pensou, até que a raposa astuta avistou uma coruja e perguntou:<br>
+		- Dona Coruja, como faço para achar o caminho de casa?<br>
+		Dona Coruja chamou o sábio coelho da floresta, que tudo sabia, tudo conhecia.
+		<br> &nbsp <img src="floresta3.png" /><a id="leiamais" href="#fim" class="scroll"><img src="leiamais.svg" alt="leia mais" /></a></p>
+		
+		</div>
+		<div id="fim">
+		<br><br>
+		<p>A raposa encontrou o coelho sábio florestal que a levou de volta ao lar. Daquele dia em diante, Lorem, coelho e coruja se tornaram grandes amigos. Com a autorização do guarda da floresta, iam passear juntos todos os dias!	</p>
+		<img src="floresta4.png" align="center"/>
+		</div>
+		
+	</div>
+</body>
+</html>
