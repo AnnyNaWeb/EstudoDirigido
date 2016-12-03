@@ -1,0 +1,65 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+@font-face
+{
+	src: url('Marmelad.ttf');
+	font-family: Marmelad-Regular;
+}	
+body
+{
+	font-family: Marmelad-Regular, sans-serif;
+	font-size: 100%;
+}
+
+#sistema 
+{
+	width: 70%;
+	height: 600px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 5px;
+	margin-top: 2%;
+	background-image: url(fundo.jpg);
+	text-align:justify;
+	border-radius: 20px;	
+}
+.form
+{
+	text-align: justify;
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 40%;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 10px;
+	height: 50%;
+}
+
+h1, h4, h6
+{
+	text-align: center;
+}
+
+
+.inputForm
+{
+	border-radius:10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	
+}
+.button
+{
+	background-color: black;
+	color: #FFFAFA;
+	border: 0;
+	border-radius: 4px;
+	padding: 10px 20px;
+	
+}
+.button:hover
+{
+	background-color: green;
+}
