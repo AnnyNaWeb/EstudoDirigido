@@ -1,0 +1,32 @@
+<html>
+<head>
+ <meta charset="utf-8">
+</head>
+<body>
+
+
+Este projeto visa qualificar e potencializar em parceria com o SEBRAE, através de um
+ciclo de palestras, os jovens empreendedores do Sul Fluminense que atuem no setor de
+Tecnologia da Informação e na produção de Jogos Digitais e atividades relacionadas à
+economia criativa, visando o aperfeiçoamento dos aspectos relacionados a gestão do
+negócio e a formação de startups.
+A Economia Criativa é um setor em crescimento, que é constituída por um conjunto de
+segmentos de produção que passam a fazer parte das estratégias nacionais e
+internacionais de desenvolvimento. O ambiente institucional é dominado por micro e
+pequenos empreendimentos, caracterizados por flexibilidade de gestão e talento criativo.
+Fazendo parte deste segmento, o mercado de jogos digitais brasileiro conta com um
+crescimento da ordem de 32% ao ano, figurando na posição de quarto maior mercado
+consumidor no cenário mundial. Apesar da importância da indústria de jogos digitais, a
+indústria brasileira é de baixa expressão no cenário mundial, contrastando com o tamanho
+do mercado interno, que hoje é atendido pela produção internacional. A partir da demanda
+do mercado de trabalho por mão-de-obra especializada, o IFRJ Campus Engenheiro
+Paulo de Frontin, como um formador de mão de obra para este mercado, através de seus
+cursos Técnico em Informática para Internet e a Graduação em Jogos Digitais, seguido da
+recente contemplação do edital de Apoio a Incubadoras de Empresas de Base
+Tecnológica da FAPERJ a partir do projeto "Silício Fluminense - Incubadora de Jogos
+Digitais, Empreendimentos e Economia Criativa de Engenheiro Paulo de Frontin”, se
+dispõe através deste projeto a fomentar através de atividades extensionistas que
+compreenderá os meses de julho a dezembro de 2015 a capacitação empreendedora de
+alunos e profissionais deste segmento da economia criativa do sul fluminense.. 
+</body>
+</html>
